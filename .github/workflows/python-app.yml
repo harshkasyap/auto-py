@@ -36,3 +36,6 @@ jobs:
         # Run Ass1 Files
         python Ass1/test10.py
         python Ass1/test11.py
+
+        # Run Ass2 Files
+        python Ass2/test2.py
